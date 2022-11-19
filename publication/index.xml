@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://ksanu1998.github.io/publication/</link>
+      <atom:link href="https://ksanu1998.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 22:59:07 -0800</lastBuildDate>
+    <image>
+      <url>https://ksanu1998.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ksanu1998.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
+      <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
+      <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/publication/sigmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don’t Miss the Train: A Case for Systems Research into Training on the Edge</title>
+      <link>https://ksanu1998.github.io/publication/ipdpsw/</link>
+      <pubDate>Mon, 01 Aug 2022 22:59:00 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/publication/ipdpsw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the Performance of Deep Learning Workloads on Accelerated Edge Computing Devices</title>
+      <link>https://ksanu1998.github.io/publication/hipc/</link>
+      <pubDate>Wed, 17 Nov 2021 23:18:41 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/publication/hipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Algorithm with Bayesian Approach: Omni-Fedge</title>
+      <link>https://ksanu1998.github.io/publication/icassp/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ksanu1998.github.io/publication/icassp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

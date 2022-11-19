@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>https://ksanu1998.github.io/project/</link>
+      <atom:link href="https://ksanu1998.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 02:18:40 -0800</lastBuildDate>
+    <image>
+      <url>https://ksanu1998.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://ksanu1998.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Compressed_sensing</title>
+      <link>https://ksanu1998.github.io/project/compressed_sensing/</link>
+      <pubDate>Sat, 19 Nov 2022 02:18:40 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/compressed_sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fed-Exp: Federated Algorithm With An Exponential Weighted Average Approach</title>
+      <link>https://ksanu1998.github.io/project/fedexp/</link>
+      <pubDate>Thu, 15 Apr 2021 23:45:53 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/fedexp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity-Aware Hashing</title>
+      <link>https://ksanu1998.github.io/project/heterogeneity/</link>
+      <pubDate>Sun, 06 Dec 2020 23:56:51 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Immediate Files in Minix OS</title>
+      <link>https://ksanu1998.github.io/project/minixos/</link>
+      <pubDate>Tue, 07 Apr 2020 00:15:40 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/minixos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffer Manager for PF Layer of ToyDB</title>
+      <link>https://ksanu1998.github.io/project/toydb/</link>
+      <pubDate>Tue, 17 Dec 2019 00:09:46 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/toydb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://ksanu1998.github.io/project/ccfd/</link>
+      <pubDate>Sat, 07 Dec 2019 23:49:24 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/ccfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processor Simulator for ToyRISC</title>
+      <link>https://ksanu1998.github.io/project/toyrisc/</link>
+      <pubDate>Tue, 19 Nov 2019 00:06:28 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/toyrisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCP Congestion Control</title>
+      <link>https://ksanu1998.github.io/project/tcp/</link>
+      <pubDate>Sun, 07 Apr 2019 00:19:59 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/tcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
