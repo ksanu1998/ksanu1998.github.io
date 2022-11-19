@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>Compressed_sensing</title>
-      <link>https://ksanu1998.github.io/project/compressed_sensing/</link>
-      <pubDate>Sat, 19 Nov 2022 02:18:40 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/compressed_sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
       <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
       <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
@@ -304,7 +296,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-516493278&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-125348769&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +306,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-516493278&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-125348769&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

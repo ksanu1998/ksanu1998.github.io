@@ -5,20 +5,12 @@
     <link>https://ksanu1998.github.io/project/</link>
       <atom:link href="https://ksanu1998.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 02:18:40 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 23:45:53 -0800</lastBuildDate>
     <image>
       <url>https://ksanu1998.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://ksanu1998.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>Compressed_sensing</title>
-      <link>https://ksanu1998.github.io/project/compressed_sensing/</link>
-      <pubDate>Sat, 19 Nov 2022 02:18:40 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/compressed_sensing/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Fed-Exp: Federated Algorithm With An Exponential Weighted Average Approach</title>
