@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ksanu1998.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ksanu1998.github.io/media/icon_hu793bbc333c173c6c757404340b8354f9_3995281_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://ksanu1998.github.io/post/</link>
     </image>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-125348769&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-738524691&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-125348769&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-738524691&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
