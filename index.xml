@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Portfolio - Sai Anuroop Kesanapalli</title>
     <link>https://ksanu1998.github.io/</link>
       <atom:link href="https://ksanu1998.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
+    <description>Portfolio - Sai Anuroop Kesanapalli</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ksanu1998.github.io/media/icon_hu793bbc333c173c6c757404340b8354f9_3995281_512x512_fill_lanczos_center_3.png</url>
-      <title></title>
+      <title>Portfolio - Sai Anuroop Kesanapalli</title>
       <link>https://ksanu1998.github.io/</link>
     </image>
     
@@ -296,7 +296,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-235816974&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851473269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +306,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-235816974&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-851473269&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
