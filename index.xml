@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Presentation on the Implicit Bias of SGD</title>
+      <link>https://ksanu1998.github.io/project/sgdbias/</link>
+      <pubDate>Thu, 23 Mar 2023 23:56:51 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/sgdbias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
       <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
       <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
@@ -296,7 +304,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-165948732&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-741938256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -306,7 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-165948732&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-741938256&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
