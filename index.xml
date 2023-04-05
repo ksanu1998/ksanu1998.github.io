@@ -41,6 +41,14 @@
     </item>
     
     <item>
+      <title>Rethinking classic learning theory in deep neural networks</title>
+      <link>https://ksanu1998.github.io/project/rethinking/</link>
+      <pubDate>Wed, 15 Feb 2023 23:56:51 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/project/rethinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
       <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
       <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
@@ -304,7 +312,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-741938256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-815492367&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +322,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-741938256&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-815492367&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
