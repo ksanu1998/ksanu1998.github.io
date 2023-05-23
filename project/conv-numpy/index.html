@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="Hashing techniques are widely used in distributed storage applications. These applications run on node clusters which may typically vary in their computational and storage capacities. Uniform hashing functions that lie at the heart of the extant hashing techniques do not do justice to the heterogeneous nature of these node clusters as a result of which the allocation of keys to resources is not optimal. In this paper, we propose hashing techniques which specifically address the heterogeneity of node capacities. We also analyse the proposed techniques in the light of consistent hashing properties and present results of simulations performed based on the proposed techniques." />
+<meta name="description" content="This code performs different types of 2D convolutions given the input and kernel parameters. It currently supports Conv2D and DepthwiseConv2D with stride, kernel dilation and image padding options. This work is being done during my summer internship at DeGirum Corp., Santa Clara." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://ksanu1998.github.io/project/heterogeneity/" />
-<link rel="canonical" href="https://ksanu1998.github.io/project/heterogeneity/" />
+<link rel="alternate" hreflang="en-us" href="https://ksanu1998.github.io/project/conv-numpy/" />
+<link rel="canonical" href="https://ksanu1998.github.io/project/conv-numpy/" />
 
 
 
@@ -311,20 +311,20 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://ksanu1998.github.io/project/heterogeneity/featured.png" />
+<meta property="twitter:image" content="https://ksanu1998.github.io/project/conv-numpy/featured.jpg" />
 <meta property="og:site_name" content="Anuroop" />
-<meta property="og:url" content="https://ksanu1998.github.io/project/heterogeneity/" />
-<meta property="og:title" content="Heterogeneity-Aware Hashing | Anuroop" />
-<meta property="og:description" content="Hashing techniques are widely used in distributed storage applications. These applications run on node clusters which may typically vary in their computational and storage capacities. Uniform hashing functions that lie at the heart of the extant hashing techniques do not do justice to the heterogeneous nature of these node clusters as a result of which the allocation of keys to resources is not optimal. In this paper, we propose hashing techniques which specifically address the heterogeneity of node capacities. We also analyse the proposed techniques in the light of consistent hashing properties and present results of simulations performed based on the proposed techniques." /><meta property="og:image" content="https://ksanu1998.github.io/project/heterogeneity/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://ksanu1998.github.io/project/conv-numpy/" />
+<meta property="og:title" content="Conv2D using only NumPy | Anuroop" />
+<meta property="og:description" content="This code performs different types of 2D convolutions given the input and kernel parameters. It currently supports Conv2D and DepthwiseConv2D with stride, kernel dilation and image padding options. This work is being done during my summer internship at DeGirum Corp., Santa Clara." /><meta property="og:image" content="https://ksanu1998.github.io/project/conv-numpy/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2020-12-06T23:56:51-08:00"
+      content="2023-05-22T09:00:00-08:00"
     />
   
   
-    <meta property="article:modified_time" content="2020-12-06T23:56:51-08:00">
+    <meta property="article:modified_time" content="2023-05-22T09:00:00-08:00">
   
 
 
@@ -348,16 +348,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ksanu1998.github.io/project/heterogeneity/"
+    "@id": "https://ksanu1998.github.io/project/conv-numpy/"
   },
-  "headline": "Heterogeneity-Aware Hashing",
+  "headline": "Conv2D using only NumPy",
   
   "image": [
-    "https://ksanu1998.github.io/project/heterogeneity/featured.png"
+    "https://ksanu1998.github.io/project/conv-numpy/featured.jpg"
   ],
   
-  "datePublished": "2020-12-06T23:56:51-08:00",
-  "dateModified": "2020-12-06T23:56:51-08:00",
+  "datePublished": "2023-05-22T09:00:00-08:00",
+  "dateModified": "2023-05-22T09:00:00-08:00",
   
   "author": {
     "@type": "Person",
@@ -372,7 +372,7 @@
       "url": "https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Hashing techniques are widely used in distributed storage applications. These applications run on node clusters which may typically vary in their computational and storage capacities. Uniform hashing functions that lie at the heart of the extant hashing techniques do not do justice to the heterogeneous nature of these node clusters as a result of which the allocation of keys to resources is not optimal. In this paper, we propose hashing techniques which specifically address the heterogeneity of node capacities. We also analyse the proposed techniques in the light of consistent hashing properties and present results of simulations performed based on the proposed techniques."
+  "description": "This code performs different types of 2D convolutions given the input and kernel parameters. It currently supports Conv2D and DepthwiseConv2D with stride, kernel dilation and image padding options. This work is being done during my summer internship at DeGirum Corp., Santa Clara."
 }
 </script>
 
@@ -394,7 +394,7 @@
 
 
   
-  <title>Heterogeneity-Aware Hashing | Anuroop</title>
+  <title>Conv2D using only NumPy | Anuroop</title>
 
   
   
@@ -414,7 +414,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="bad91e7ec0375ce3fbe60daca33b80cd" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="77327a6d9d6fbf32482071b3c7d55437" >
 
   
   
@@ -829,7 +829,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Heterogeneity-Aware Hashing</h1>
+  <h1>Conv2D using only NumPy</h1>
 
   
 
@@ -846,8 +846,7 @@
     
 
   <span class="author-highlighted">
-      Sai Anuroop Kesanapalli</span>, <span >
-      Vivek Mishra</span>
+      Sai Anuroop Kesanapalli</span>
   </div>
   
   
@@ -858,7 +857,7 @@
     
       
     
-    Dec 6, 2020
+    May 22, 2023
   </span>
   
 
@@ -883,7 +882,7 @@
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing" target="_blank" rel="noopener">Go to Project Site</a>
+  <a class="btn btn-outline-primary my-1" href="https://github.com/ksanu1998/conv-NumPy/tree/main" target="_blank" rel="noopener">Go to Project Site</a>
   
   
 
@@ -895,14 +894,8 @@
 
 
   
-    
-  
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/blob/main/Report/Heterogeneity-Aware%20Hashing.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -911,7 +904,7 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/tree/main/Code" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/ksanu1998/conv-NumPy/tree/main" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -922,14 +915,6 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/ksanu1998/Heterogeneity-Aware-Hashing/blob/main/Presentation/Heterogeneity_Aware_Hashing.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
 
 
 
@@ -942,9 +927,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 410px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 303px;">
   <div style="position: relative">
-    <img src="/project/heterogeneity/featured_hu085c4e9dbed921ad1df3c2b81f309701_101840_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="410" alt="" class="featured-image">
+    <img src="/project/conv-numpy/featured_hu31cf304caf604d362ace6856c4bb8933_248049_720x2500_fit_q75_h2_lanczos.webp" width="720" height="303" alt="" class="featured-image">
     
   </div>
 </div>
@@ -980,7 +965,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fheterogeneity%2F&amp;text=Heterogeneity-Aware&#43;Hashing" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fconv-numpy%2F&amp;text=Conv2D&#43;using&#43;only&#43;NumPy" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -999,7 +984,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Heterogeneity-Aware%20Hashing&amp;body=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fheterogeneity%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Conv2D%20using%20only%20NumPy&amp;body=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fconv-numpy%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1016,7 +1001,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fheterogeneity%2F&amp;title=Heterogeneity-Aware&#43;Hashing" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fconv-numpy%2F&amp;title=Conv2D&#43;using&#43;only&#43;NumPy" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1033,7 +1018,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Heterogeneity-Aware&#43;Hashing%20https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fheterogeneity%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Conv2D&#43;using&#43;only&#43;NumPy%20https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fconv-numpy%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1159,12 +1144,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
 
 
   
