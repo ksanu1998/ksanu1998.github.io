@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>conv-NumPy</title>
-      <link>https://ksanu1998.github.io/project/conv-numpy/</link>
+      <title>beaverpy</title>
+      <link>https://ksanu1998.github.io/project/beaverpy/</link>
       <pubDate>Mon, 22 May 2023 09:00:00 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/conv-numpy/</guid>
+      <guid>https://ksanu1998.github.io/project/beaverpy/</guid>
       <description></description>
     </item>
     
@@ -336,7 +336,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-837416529&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-538291647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -346,7 +346,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-837416529&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-538291647&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
