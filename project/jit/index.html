@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="Graduate Student" />
+<meta name="description" content="In this report we discuss about runtime optimizations in Java Virtual Machines. We first present some basic framework about Java, virtual machines, JVM and code optimization. Next, we explain the philosophy behind Java and understand how Java works, by going through the concepts of bytecode, role of JVM and JIT compiler. Finally, we delve into the runtime optimizations part, where we explain about hotspots, inlining, local, global and control flow optimizations." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://ksanu1998.github.io/project/" />
-<link rel="canonical" href="https://ksanu1998.github.io/project/" />
+<link rel="alternate" hreflang="en-us" href="https://ksanu1998.github.io/project/jit/" />
+<link rel="canonical" href="https://ksanu1998.github.io/project/jit/" />
 
 
 
@@ -304,47 +304,97 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://ksanu1998.github.io/project/jit/featured.png" />
 <meta property="og:site_name" content="Anuroop" />
-<meta property="og:url" content="https://ksanu1998.github.io/project/" />
-<meta property="og:title" content="Projects | Anuroop" />
-<meta property="og:description" content="Graduate Student" /><meta property="og:image" content="https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://ksanu1998.github.io/project/jit/" />
+<meta property="og:title" content="Runtime Optimization in Java Virtual Machines | Anuroop" />
+<meta property="og:description" content="In this report we discuss about runtime optimizations in Java Virtual Machines. We first present some basic framework about Java, virtual machines, JVM and code optimization. Next, we explain the philosophy behind Java and understand how Java works, by going through the concepts of bytecode, role of JVM and JIT compiler. Finally, we delve into the runtime optimizations part, where we explain about hotspots, inlining, local, global and control flow optimizations." /><meta property="og:image" content="https://ksanu1998.github.io/project/jit/featured.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2023-05-22T09:00:00-08:00" />
-  
-
-
-
-
-
-
-
-
-
-
+    <meta
+      property="article:published_time"
+      content="2020-04-15T23:56:51-08:00"
+    />
   
   
-  
-
-  
-  
-    <link rel="alternate" href="/project/index.xml" type="application/rss+xml" title="Anuroop" />
-  
-
+    <meta property="article:modified_time" content="2020-04-15T23:56:51-08:00">
   
 
 
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ksanu1998.github.io/project/jit/"
+  },
+  "headline": "Runtime Optimization in Java Virtual Machines",
   
-  <title>Projects | Anuroop</title>
+  "image": [
+    "https://ksanu1998.github.io/project/jit/featured.png"
+  ],
+  
+  "datePublished": "2020-04-15T23:56:51-08:00",
+  "dateModified": "2020-04-15T23:56:51-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sai Anuroop Kesanapalli"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Anuroop",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "In this report we discuss about runtime optimizations in Java Virtual Machines. We first present some basic framework about Java, virtual machines, JVM and code optimization. Next, we explain the philosophy behind Java and understand how Java works, by going through the concepts of bytecode, role of JVM and JIT compiler. Finally, we delve into the runtime optimizations part, where we explain about hotspots, inlining, local, global and control flow optimizations."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Runtime Optimization in Java Virtual Machines | Anuroop</title>
 
   
   
@@ -364,7 +414,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e3aa2a2133f4bf07a7aa0b7fb8463901" >
 
   
   
@@ -749,102 +799,95 @@
     
     
 
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Runtime Optimization in Java Virtual Machines</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Projects</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-
-  
-
-  
-  
-    
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/ksanu1998/Credit-Card-Fraud-Detection-using-ML-Algorithms/blob/master/README.md" target="_blank" rel="noopener">Credit Card Fraud Detection</a>
-    </div>
-
-    
-    <a href="https://github.com/ksanu1998/Credit-Card-Fraud-Detection-using-ML-Algorithms/blob/master/README.md" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        We based our work on the dataset provided in Kaggle [1] under Open Database license. This dataset is already normalized but is highly biased towards Non-Fraud transactions, as is expected of a legal nature of transactions across the world. Feeding this raw data to our algorithm will highly affect its results. So, data pre-processing is a must to ensure correctness and validity of results. For addressing this issue, we have implemented the bagging phase. Since we are concerned with classification of feature vectors, we implemented SVM with Gaussian and Polynomial kernel functions. Also, we have explored two different strategies for training our classsifer.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
 
   <span class="author-highlighted">
       Sai Anuroop Kesanapalli</span>, <span >
-      Mandeep Bawa</span>, <span >
-      Sushma Biradar</span>, <span >
-      Aniruddha Joshi</span>
-      </div>
-      
-    </div>
+      Unnati Athwani</span>, <span >
+      Vivek Mishra</span>, <span >
+      Shalaj Kumar Yadav</span>
+  </div>
+  
+  
 
+  
+  <span class="article-date">
     
-    <div class="btn-links">
+    
       
+    
+    Apr 15, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://ksanu1998.github.io/uploads/Runtime_Optimization_in_JVM.pdf" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
 
 
 
@@ -859,33 +902,13 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/Credit_Card_Fraud_Detection_using_ML_Algorithms/blob/master/CCFD_Report.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/uploads/Runtime_Optimization_in_JVM.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/Credit_Card_Fraud_Detection_using_ML_Algorithms" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/Credit_Card_Fraud_Detection_using_ML_Algorithms/blob/master/CreditCardFraudDetection_Poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
 
@@ -895,259 +918,288 @@
 
 
 
-    </div>
-    
 
-  </div>
-  <div class="ml-3">
-    
-    
-      
-      <a href="https://github.com/ksanu1998/Credit-Card-Fraud-Detection-using-ML-Algorithms/blob/master/README.md" target="_blank" rel="noopener">
-        <img src="/project/ccfd/featured_hu5b3e216ddcedbedbb894b05c3bdddae0_279440_150x0_resize_q75_h2_lanczos_3.webp" height="209" width="150"
-            alt="Credit Card Fraud Detection" loading="lazy">
-      </a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 263px;">
+  <div style="position: relative">
+    <img src="/project/jit/featured_hu9ec2935502912d8be685dd0605a2cdda_41817_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="263" alt="" class="featured-image">
     
   </div>
 </div>
 
-  
-    
 
 
+  <div class="article-container">
 
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/ksanu1998/Processor_Simulator_for_ToyRISC" target="_blank" rel="noopener">Processor Simulator for ToyRISC</a>
+    <div class="article-style">
+      
     </div>
 
     
-    <a href="https://github.com/ksanu1998/Processor_Simulator_for_ToyRISC" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        Processor simulator for ToyRISC ISA, written in Java, as a part of coursework for Computer Architecture Lab course at IIT Dharwad.
-      </div>
-    </a>
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
     
-
-    <div class="stream-meta article-metadata">
-
       
-
       
-      <div>
+      
         
-
-  <span class="author-highlighted">
-      Sai Anuroop Kesanapalli</span>, <span >
-      Nischay Sriniketh</span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/Processor_Simulator_for_ToyRISC" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fjit%2F&amp;text=Runtime&#43;Optimization&#43;in&#43;Java&#43;Virtual&#43;Machines" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <a href="https://github.com/ksanu1998/Processor_Simulator_for_ToyRISC" target="_blank" rel="noopener">
-        <img src="/project/toyrisc/featured_hua7996c05c2f54f912188883ddfb32ef9_45567_150x0_resize_q75_h2_lanczos.webp" height="95" width="150"
-            alt="Processor Simulator for ToyRISC" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://github.com/ksanu1998/TCP_congestion_control" target="_blank" rel="noopener">TCP Congestion Control</a>
-    </div>
-
-    
-    <a href="https://github.com/ksanu1998/TCP_congestion_control" target="_blank" rel="noopener" class="summary-link">
-      <div class="article-style">
-        In this project, the congestion control algorithm of TCP over a UDP socket is implemented. The server requests a file of data. The client then packetizes the file and sends these packets over the network. The server acknowledges these packets. These acknowledgments control the congestion window at the client (which is the transmitter of these packets). This project was done as a part of Computer Networks Lab course at IIT Dharwad.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
       
-
       
-      <div>
         
-
-  <span class="author-highlighted">
-      Sai Anuroop Kesanapalli</span>
-      </div>
       
-    </div>
-
-    
-    <div class="btn-links">
       
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/TCP_congestion_control/blob/master/report.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ksanu1998/TCP_congestion_control" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Runtime%20Optimization%20in%20Java%20Virtual%20Machines&amp;body=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fjit%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <a href="https://github.com/ksanu1998/TCP_congestion_control" target="_blank" rel="noopener">
-        <img src="/project/tcp/featured_hu1d6a32b63d2aae71de60f444fcc45265_39856_150x0_resize_q75_h2_lanczos_3.webp" height="113" width="150"
-            alt="TCP Congestion Control" loading="lazy">
-      </a>
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fjit%2F&amp;title=Runtime&#43;Optimization&#43;in&#43;Java&#43;Virtual&#43;Machines" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-  </div>
-</div>
-
-  
-
-  
-
-  
-<nav class="mt-1">
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/project/">&laquo;</a></li>
-    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Runtime&#43;Optimization&#43;in&#43;Java&#43;Virtual&#43;Machines%20https%3A%2F%2Fksanu1998.github.io%2Fproject%2Fjit%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://ksanu1998.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu2a713c02388fcd135a16024cae131d58_231865_270x270_fill_q75_lanczos_center.jpg" alt="Sai Anuroop Kesanapalli"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://ksanu1998.github.io/">Sai Anuroop Kesanapalli</a></h5>
+      <h6 class="card-subtitle">Graduate Student</h6>
+      <p class="card-text">I am a second year master&rsquo;s student in Computer Science at the University of Southern California. My research interests are chiefly Statistical Machine Learning, Edge-GPU Performance Characterization, Deep Learning Theory, Stochastic Optimization, Federated Learning, and Embedded Computing.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:ksanu1998@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ksanu1998" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/ksanu1998" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=d9_YakoAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/Sai_Anuroop_Kesanapalli_Resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
