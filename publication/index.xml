@@ -5,7 +5,7 @@
     <link>https://ksanu1998.github.io/publication/</link>
       <atom:link href="https://ksanu1998.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 22:59:07 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jun 2023 22:59:07 -0800</lastBuildDate>
     <image>
       <url>https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
       <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
-      <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
+      <pubDate>Sun, 18 Jun 2023 22:59:07 -0800</pubDate>
       <guid>https://ksanu1998.github.io/publication/sigmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
+      <link>https://ksanu1998.github.io/publication/pomacs/</link>
+      <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/publication/pomacs/</guid>
       <description></description>
     </item>
     

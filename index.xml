@@ -41,6 +41,14 @@
     </item>
     
     <item>
+      <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
+      <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
+      <pubDate>Sun, 18 Jun 2023 22:59:07 -0800</pubDate>
+      <guid>https://ksanu1998.github.io/publication/sigmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>beaverpy</title>
       <link>https://ksanu1998.github.io/project/beaverpy/</link>
       <pubDate>Mon, 22 May 2023 09:00:00 -0800</pubDate>
@@ -82,9 +90,9 @@
     
     <item>
       <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
-      <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
+      <link>https://ksanu1998.github.io/publication/pomacs/</link>
       <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/publication/sigmetrics/</guid>
+      <guid>https://ksanu1998.github.io/publication/pomacs/</guid>
       <description></description>
     </item>
     
@@ -352,7 +360,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-714935628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-562971483&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -362,7 +370,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-714935628&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-562971483&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
