@@ -2,19 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ksanu1998.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://ksanu1998.github.io/project/multimodal/</loc>
+    <lastmod>2024-04-01T23:56:51-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ksanu1998.github.io/</loc>
     <lastmod>2024-04-01T23:56:51-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -124,14 +116,6 @@
   </url><url>
     <loc>https://ksanu1998.github.io/project/tcp/</loc>
     <lastmod>2019-04-07T00:19:59-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ksanu1998.github.io/admin/</loc>
