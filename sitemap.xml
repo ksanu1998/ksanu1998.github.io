@@ -2,19 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ksanu1998.github.io/project/multimodal/</loc>
-    <lastmod>2024-04-01T23:56:51-08:00</lastmod>
+    <loc>https://ksanu1998.github.io/post/learning-resources/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ksanu1998.github.io/</loc>
-    <lastmod>2024-04-01T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/</loc>
-    <lastmod>2024-04-01T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/post/learning-resources/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,106 +14,10 @@
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ksanu1998.github.io/project/llmstatic/</loc>
-    <lastmod>2023-11-28T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication-type/1/</loc>
-    <lastmod>2023-06-18T22:59:07-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/sigmetrics/</loc>
-    <lastmod>2023-06-18T22:59:07-08:00</lastmod>
+    <loc>https://ksanu1998.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ksanu1998.github.io/publication_types/</loc>
-    <lastmod>2023-06-18T22:59:07-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/</loc>
-    <lastmod>2023-06-18T22:59:07-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/beaverpy/</loc>
-    <lastmod>2023-05-22T09:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/ff/</loc>
-    <lastmod>2023-04-21T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/sgdbias/</loc>
-    <lastmod>2023-03-23T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/rethinking/</loc>
-    <lastmod>2023-02-15T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/stores/</loc>
-    <lastmod>2022-12-14T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication-type/2/</loc>
-    <lastmod>2022-11-18T22:59:07-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/pomacs/</loc>
-    <lastmod>2022-11-18T22:59:07-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/ipdpsw/</loc>
-    <lastmod>2022-08-01T22:59:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/hipc/</loc>
-    <lastmod>2021-11-17T23:18:41-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/publication/icassp/</loc>
-    <lastmod>2021-05-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/fedexp/</loc>
-    <lastmod>2021-04-15T23:45:53-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/heterogeneity/</loc>
-    <lastmod>2020-12-06T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/jit/</loc>
-    <lastmod>2020-04-15T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/compilers/</loc>
-    <lastmod>2020-04-10T23:56:51-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/minixos/</loc>
-    <lastmod>2020-04-07T00:15:40-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/toydb/</loc>
-    <lastmod>2019-12-17T00:09:46-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/ccfd/</loc>
-    <lastmod>2019-12-07T23:49:24-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/toyrisc/</loc>
-    <lastmod>2019-11-19T00:06:28-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/project/tcp/</loc>
-    <lastmod>2019-04-07T00:19:59-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://ksanu1998.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ksanu1998.github.io/tags/</loc>

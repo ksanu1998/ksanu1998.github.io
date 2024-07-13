@@ -5,7 +5,7 @@
     <link>https://ksanu1998.github.io/</link>
       <atom:link href="https://ksanu1998.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Anuroop</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 23:56:51 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_512x512_fill_lanczos_center_3.png</url>
       <title>Anuroop</title>
@@ -13,19 +13,16 @@
     </image>
     
     <item>
-      <title>A comparison of shared encoders for multimodal emotion recognition</title>
-      <link>https://ksanu1998.github.io/project/multimodal/</link>
-      <pubDate>Mon, 01 Apr 2024 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Great learning resources</title>
+      <title></title>
       <link>https://ksanu1998.github.io/post/learning-resources/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://ksanu1998.github.io/post/learning-resources/</guid>
-      <description>&lt;h2 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h2&gt;
+      <description>&lt;style&gt;
+    .deeppink {
+        color: deeppink;
+    }
+&lt;/style&gt;
+&lt;h3 id=&#34;span-classdeeppinkmathematicsspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Mathematics&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Probability&lt;/strong&gt;&lt;/a&gt;, by Dimitri P. Bertsekas and John N. Tsitsiklis&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Probability and Statistics for Engineers and Scientists&lt;/strong&gt;&lt;/a&gt;, by Sheldon M. Ross&lt;/li&gt;
@@ -39,7 +36,7 @@
 &lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Convex Optimization&lt;/strong&gt;&lt;/a&gt;, by Stephen Boyd and Lieven Vandenberghe&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://home.iitk.ac.in/~chavan/alg1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Notes on Group Theory&lt;/strong&gt;&lt;/a&gt;, by Sameer Chavan&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinkmachine-learningspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Machine Learning&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://alexjungaalto.github.io/MLBasicsBook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning: The Basics&lt;/strong&gt;&lt;/a&gt;, by Alexander Jung&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Pattern Recognition and Machine Learning&lt;/strong&gt;&lt;/a&gt;, by Christopher M. Bishop&lt;/li&gt;
@@ -52,7 +49,7 @@
 From Theory to Algorithms&lt;/strong&gt;&lt;/a&gt;, by Shai Shalev-Shwartz and Shai Ben-David&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition&lt;/strong&gt;&lt;/a&gt;, by Daniel Jurafsky and James H. Martin&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinkcomputer-sciencespan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Computer Science&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www-2.dc.uba.ar/staff/becher/Hopcroft-Motwani-Ullman-2001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Automata Theory, Languages, and Computation&lt;/strong&gt;&lt;/a&gt;, by John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Algorithms&lt;/strong&gt;&lt;/a&gt;, by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani&lt;/li&gt;
@@ -66,13 +63,13 @@ From Theory to Algorithms&lt;/strong&gt;&lt;/a&gt;, by Shai Shalev-Shwartz and S
 &lt;li&gt;&lt;a href=&#34;https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Software Engineering: A Practitioner&amp;rsquo;s Approach&lt;/strong&gt;&lt;/a&gt;, by Roger S. Pressman&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bedford-computing.co.uk/learning/wp-content/uploads/2016/03/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Distributed Systems: Concepts and Design&lt;/strong&gt;&lt;/a&gt;, by George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;engineering&#34;&gt;Engineering&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinkengineeringspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Engineering&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ia601704.us.archive.org/22/items/engineering-drawing-by-n.-d-bhatt/ENGINEERING%20DRAWING%20BY%20N.D%20BHATT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Engineering Drawing&lt;/strong&gt;&lt;/a&gt;, by N. D. Bhatt&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ia801500.us.archive.org/12/items/Foundations_of_Analog_and_Digital_Circuits_Mas/Foundations_of_Analog_and_Digital_Circuits_Mas.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Foundations of Analog and Digital Circuits&lt;/strong&gt;&lt;/a&gt;, by Anant Agarwal and Jeffrey Lang&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Digital Logic and Computer Design&lt;/strong&gt;&lt;/a&gt;, by M. Morris Mano&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;natural-sciences&#34;&gt;Natural Sciences&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinknatural-sciencesspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Natural Sciences&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://images.collegedunia.com/public/image/b8ccbe2a7cb4dc6c7a5bbcb1bec3c41f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Concepts of Physics&lt;/strong&gt;&lt;/a&gt;, by H. C. Verma&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ia600709.us.archive.org/1/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Problems in General Physics&lt;/strong&gt;&lt;/a&gt;, by I. E. Irodov&lt;/li&gt;
@@ -81,14 +78,14 @@ From Theory to Algorithms&lt;/strong&gt;&lt;/a&gt;, by Shai Shalev-Shwartz and S
 &lt;li&gt;&lt;a href=&#34;https://edisciplinas.usp.br/pluginfile.php/7940313/mod_resource/content/1/Shriver%20%20Atkins%20-%20Inorganic%20Chemistry%205th.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Shriver &amp;amp; Atkins&amp;rsquo; Inorganic Chemistry&lt;/strong&gt;&lt;/a&gt;, by Peter Atkins, Tina Overton, Jonathan Rourke, Mark Weller, Fraser Armstrong, and Michael Hagerman&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Campbell Biology&lt;/strong&gt;&lt;/a&gt;, by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;social-sciences&#34;&gt;Social Sciences&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinksocial-sciencesspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Social Sciences&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://lms-paralel.esaunggul.ac.id/pluginfile.php?file=%2F222814%2Fmod_resource%2Fcontent%2F2%2FMicroeconomics%20-%20Robert%20Pindyck%2C%20Daniel%20Rubinfeld.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Microeconomics&lt;/strong&gt;&lt;/a&gt;, by Robert S. Pindyck and Daniel L. Rubinfeld&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jollygreengeneral.typepad.com/files/n.-gregory-mankiw-macroeconomics-7th-edition-2009.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Macroeconomics&lt;/strong&gt;&lt;/a&gt;, by N. Gregory Mankiw&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://moodle.estgv.ipv.pt/201920/pluginfile.php/59329/mod_resource/content/1/samunord19.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Economics&lt;/strong&gt;&lt;/a&gt;, by Paul A. Samuelson and William D. Nordhaus&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist2019-20/saussure_course_in_general_linguistics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Course in General Linguistics&lt;/strong&gt;&lt;/a&gt;, by Ferdinand de Saussure, translated and annotated by Roy Harris&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;h3 id=&#34;span-classdeeppinkliteraturespan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Literature&lt;/span&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://archive.org/details/rigvedasanhitasa01syaauoft/page/n7/mode/2up&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Rig-Veda-Sanhita: The Sacred Hymns of the Brahmans&lt;/strong&gt;&lt;/a&gt;, together with the commentary of Sayanacharya, edited by Max Müller&lt;/p&gt;
@@ -148,174 +145,6 @@ From Theory to Algorithms&lt;/strong&gt;&lt;/a&gt;, by Shai Shalev-Shwartz and S
 &lt;p&gt;Courtesy to authors and publishers of the content, no copyright infringement intended. Sole purpose of this page is to make publicly available learning resources more accessible, for the benefit of all.&lt;br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Leveraging static analysis for evaluating code-generation models</title>
-      <link>https://ksanu1998.github.io/project/llmstatic/</link>
-      <pubDate>Tue, 28 Nov 2023 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/llmstatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
-      <link>https://ksanu1998.github.io/publication/sigmetrics/</link>
-      <pubDate>Sun, 18 Jun 2023 22:59:07 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/publication/sigmetrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beaverpy</title>
-      <link>https://ksanu1998.github.io/project/beaverpy/</link>
-      <pubDate>Mon, 22 May 2023 09:00:00 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/beaverpy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forward-Forward: Is it time to bid adieu to BackProp?</title>
-      <link>https://ksanu1998.github.io/project/ff/</link>
-      <pubDate>Fri, 21 Apr 2023 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/ff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation on the Implicit Bias of SGD</title>
-      <link>https://ksanu1998.github.io/project/sgdbias/</link>
-      <pubDate>Thu, 23 Mar 2023 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/sgdbias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rethinking classic learning theory in deep neural networks</title>
-      <link>https://ksanu1998.github.io/project/rethinking/</link>
-      <pubDate>Wed, 15 Feb 2023 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/rethinking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Store Sales - Time Series Forecasting</title>
-      <link>https://ksanu1998.github.io/project/stores/</link>
-      <pubDate>Wed, 14 Dec 2022 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/stores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models</title>
-      <link>https://ksanu1998.github.io/publication/pomacs/</link>
-      <pubDate>Fri, 18 Nov 2022 22:59:07 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/publication/pomacs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Don’t Miss the Train: A Case for Systems Research into Training on the Edge</title>
-      <link>https://ksanu1998.github.io/publication/ipdpsw/</link>
-      <pubDate>Mon, 01 Aug 2022 22:59:00 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/publication/ipdpsw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterizing the Performance of Deep Learning Workloads on Accelerated Edge Computing Devices</title>
-      <link>https://ksanu1998.github.io/publication/hipc/</link>
-      <pubDate>Wed, 17 Nov 2021 23:18:41 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/publication/hipc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Algorithm with Bayesian Approach: Omni-Fedge</title>
-      <link>https://ksanu1998.github.io/publication/icassp/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://ksanu1998.github.io/publication/icassp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fed-Exp: Federated Algorithm With An Exponential Weighted Average Approach</title>
-      <link>https://ksanu1998.github.io/project/fedexp/</link>
-      <pubDate>Thu, 15 Apr 2021 23:45:53 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/fedexp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneity-Aware Hashing</title>
-      <link>https://ksanu1998.github.io/project/heterogeneity/</link>
-      <pubDate>Sun, 06 Dec 2020 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/heterogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Runtime Optimization in Java Virtual Machines</title>
-      <link>https://ksanu1998.github.io/project/jit/</link>
-      <pubDate>Wed, 15 Apr 2020 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/jit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compiler for MICRO</title>
-      <link>https://ksanu1998.github.io/project/compilers/</link>
-      <pubDate>Fri, 10 Apr 2020 23:56:51 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/compilers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implementation of Immediate Files in Minix OS</title>
-      <link>https://ksanu1998.github.io/project/minixos/</link>
-      <pubDate>Tue, 07 Apr 2020 00:15:40 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/minixos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Buffer Manager for PF Layer of ToyDB</title>
-      <link>https://ksanu1998.github.io/project/toydb/</link>
-      <pubDate>Tue, 17 Dec 2019 00:09:46 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/toydb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Credit Card Fraud Detection</title>
-      <link>https://ksanu1998.github.io/project/ccfd/</link>
-      <pubDate>Sat, 07 Dec 2019 23:49:24 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/ccfd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Processor Simulator for ToyRISC</title>
-      <link>https://ksanu1998.github.io/project/toyrisc/</link>
-      <pubDate>Tue, 19 Nov 2019 00:06:28 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/toyrisc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TCP Congestion Control</title>
-      <link>https://ksanu1998.github.io/project/tcp/</link>
-      <pubDate>Sun, 07 Apr 2019 00:19:59 -0800</pubDate>
-      <guid>https://ksanu1998.github.io/project/tcp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ksanu1998.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanu1998.github.io/admin/config.yml</guid>
-      <description></description>
     </item>
     
   </channel>
