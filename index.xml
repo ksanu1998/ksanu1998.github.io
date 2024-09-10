@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuroop</title>
+    <link>https://ksanu1998.github.io/</link>
+      <atom:link href="https://ksanu1998.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anuroop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ksanu1998.github.io/media/icon_huafd9ff5831758f0d866c24316c40053b_18585_512x512_fill_lanczos_center_3.png</url>
+      <title>Anuroop</title>
+      <link>https://ksanu1998.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ksanu1998.github.io/post/learning-resources/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ksanu1998.github.io/post/learning-resources/</guid>
+      <description>&lt;style&gt;
+    .deeppink {
+        color: deeppink;
+    }
+&lt;/style&gt;
+&lt;h3 id=&#34;span-classdeeppinkmathematicsspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Mathematics&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/d973b10c2587781f86ca4f2aff49098f_MITRES_6_012S18_Textbook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Probability&lt;/strong&gt;&lt;/a&gt;, by Dimitri P. Bertsekas and John N. Tsitsiklis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Probability and Statistics for Engineers and Scientists&lt;/strong&gt;&lt;/a&gt;, by Sheldon M. Ross&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.people.vcu.edu/~rhammack/Discrete/Alpha.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Elements of Discrete Mathematics&lt;/strong&gt;&lt;/a&gt;, by Richard Hammack&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bharathbettagerenagaraja.files.wordpress.com/2016/07/e212_matrixtheory_oct8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lecture Notes in Linear Algebra and Matrix Analysis&lt;/strong&gt;&lt;/a&gt;, by Bharath B. N&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@bharathbn/ryNX5Zygp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lecture Notes in Data Analysis&lt;/strong&gt;&lt;/a&gt;, by Bharath B. N&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=1ZND5I8g1yGBzNRii4TkZBr7mX2T-8kao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lecture Slides in Calculus&lt;/strong&gt;&lt;/a&gt;, by Balmohan Vishnu Limaye&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=1jUO2FgE4V8FE5PIZEcZ68GOHTi24guNm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lecture Slides in Linear Algebra&lt;/strong&gt;&lt;/a&gt;, by Balmohan Vishnu Limaye&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.iitb.ac.in/~siva/afs07.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Lecture notes on Ordinary Differential Equations&lt;/strong&gt;&lt;/a&gt;, by S. Sivaji Ganesh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.iitb.ac.in/~baskar/NA-20130603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Numerical Analysis&lt;/strong&gt;&lt;/a&gt;, by S. Baskar and S. Sivaji Ganesh&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Convex Optimization&lt;/strong&gt;&lt;/a&gt;, by Stephen Boyd and Lieven Vandenberghe&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://home.iitk.ac.in/~chavan/alg1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Notes on Group Theory&lt;/strong&gt;&lt;/a&gt;, by Sameer Chavan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinkmachine-learningspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Machine Learning&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alexjungaalto.github.io/MLBasicsBook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning: The Basics&lt;/strong&gt;&lt;/a&gt;, by Alexander Jung&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Pattern Recognition and Machine Learning&lt;/strong&gt;&lt;/a&gt;, by Christopher M. Bishop&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Artificial Intelligence: A Modern Approach&lt;/strong&gt;&lt;/a&gt;, by Stuart Russell and Peter Norvig&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ai.stanford.edu/~nilsson/QAI/qai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Quest for Aritifical Intelligence: A History of Ideas and Achievements&lt;/strong&gt;&lt;/a&gt;, by Nils J. Nilsson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Foundations of Machine Learning&lt;/strong&gt;&lt;/a&gt;, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/probml/pml-book/releases/latest/download/book1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Probabilistic Machine Learning&lt;/strong&gt;&lt;/a&gt;, by Kevin Patrick Murphy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mediatum.ub.tum.de/doc/1723378/1723378.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mathematical Foundations of Supervised Learning&lt;/strong&gt;&lt;/a&gt;, by Michael M. Wolf&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Understanding Machine Learning:
+From Theory to Algorithms&lt;/strong&gt;&lt;/a&gt;, by Shai Shalev-Shwartz and Shai Ben-David&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition&lt;/strong&gt;&lt;/a&gt;, by Daniel Jurafsky and James H. Martin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinkcomputer-sciencespan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Computer Science&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-2.dc.uba.ar/staff/becher/Hopcroft-Motwani-Ullman-2001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Automata Theory, Languages, and Computation&lt;/strong&gt;&lt;/a&gt;, by John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Algorithms&lt;/strong&gt;&lt;/a&gt;, by S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.icdst.org/pdfs/files3/9ce98c127c79e548ebea18966f526ae9.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Algorithm Design&lt;/strong&gt;&lt;/a&gt;, by Jon Kleinberg and Éva Tardos&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cse.iitd.ac.in/~srsarangi/archbook/archbook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Basic Computer Architecture&lt;/strong&gt;&lt;/a&gt;, by Smruti R. Sarangi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://titania.eng.monash.edu/netperf/docs/computer-networks-peterson-davie-v6.0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Computer Networks: A Systems Approach&lt;/strong&gt;&lt;/a&gt;, by Larry Peterson and Bruce Davie&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://db-book.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Database System Concepts&lt;/strong&gt;&lt;/a&gt;, by Avi Silberschatz, Henry F. Korth, S. Sudarshan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.unikom.ac.id/48769/1/Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools%20%282006%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Compilers: Principles, Techniques, &amp;amp; Tools&lt;/strong&gt;&lt;/a&gt;, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oreilly.com/library/view/operating-systems-in/9780471687238/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Operating Systems in Depth&lt;/strong&gt;&lt;/a&gt;, by Thomas W. Doeppner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Operating Systems Concepts&lt;/strong&gt;&lt;/a&gt;, by Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://intranetssn.github.io/www.ssn.net/twiki/pub/CseIntranet/CseBCS6403/PressmanBook.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Software Engineering: A Practitioner&amp;rsquo;s Approach&lt;/strong&gt;&lt;/a&gt;, by Roger S. Pressman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bedford-computing.co.uk/learning/wp-content/uploads/2016/03/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Distributed Systems: Concepts and Design&lt;/strong&gt;&lt;/a&gt;, by George Coulouris, Jean Dollimore, Tim Kindberg, and Gordon Blair&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinkengineeringspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Engineering&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ia601704.us.archive.org/22/items/engineering-drawing-by-n.-d-bhatt/ENGINEERING%20DRAWING%20BY%20N.D%20BHATT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Engineering Drawing&lt;/strong&gt;&lt;/a&gt;, by N. D. Bhatt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ia801500.us.archive.org/12/items/Foundations_of_Analog_and_Digital_Circuits_Mas/Foundations_of_Analog_and_Digital_Circuits_Mas.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Foundations of Analog and Digital Circuits&lt;/strong&gt;&lt;/a&gt;, by Anant Agarwal and Jeffrey Lang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ia800607.us.archive.org/3/items/DigitalLogicAndComputerDesignByM.MorrisMano2ndEdition/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20%282nd%20Edition%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Digital Logic and Computer Design&lt;/strong&gt;&lt;/a&gt;, by M. Morris Mano&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinknatural-sciencesspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Natural Sciences&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://images.collegedunia.com/public/image/b8ccbe2a7cb4dc6c7a5bbcb1bec3c41f.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Concepts of Physics&lt;/strong&gt;&lt;/a&gt;, by H. C. Verma&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ia600709.us.archive.org/1/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Problems in General Physics&lt;/strong&gt;&lt;/a&gt;, by I. E. Irodov&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ia801804.us.archive.org/28/items/2014-jw-fundamentals-of-physics-extended-10th-ed-tand-a_202011/2014%20JW%20Fundamentals%20Of%20Physics%20Extended%2010th%20Ed%20TandA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Fundamentals of Physics&lt;/strong&gt;&lt;/a&gt;, by Robert Resnick, David Halliday, and Jearl Walker&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www-pnp.physics.ox.ac.uk/~gwenlan/teaching/EM/introduction-to-electrodynamics-d-j-griffiths-4ed.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to Electrodynamics&lt;/strong&gt;&lt;/a&gt;, by David J. Griffiths&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://edisciplinas.usp.br/pluginfile.php/7940313/mod_resource/content/1/Shriver%20%20Atkins%20-%20Inorganic%20Chemistry%205th.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Shriver &amp;amp; Atkins&amp;rsquo; Inorganic Chemistry&lt;/strong&gt;&lt;/a&gt;, by Peter Atkins, Tina Overton, Jonathan Rourke, Mark Weller, Fraser Armstrong, and Michael Hagerman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135855837.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Campbell Biology&lt;/strong&gt;&lt;/a&gt;, by Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, and Rebecca B. Orr&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinksocial-sciencesspan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Social Sciences&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lms-paralel.esaunggul.ac.id/pluginfile.php?file=%2F222814%2Fmod_resource%2Fcontent%2F2%2FMicroeconomics%20-%20Robert%20Pindyck%2C%20Daniel%20Rubinfeld.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Microeconomics&lt;/strong&gt;&lt;/a&gt;, by Robert S. Pindyck and Daniel L. Rubinfeld&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jollygreengeneral.typepad.com/files/n.-gregory-mankiw-macroeconomics-7th-edition-2009.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Macroeconomics&lt;/strong&gt;&lt;/a&gt;, by N. Gregory Mankiw&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moodle.estgv.ipv.pt/201920/pluginfile.php/59329/mod_resource/content/1/samunord19.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Economics&lt;/strong&gt;&lt;/a&gt;, by Paul A. Samuelson and William D. Nordhaus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist2019-20/saussure_course_in_general_linguistics.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Course in General Linguistics&lt;/strong&gt;&lt;/a&gt;, by Ferdinand de Saussure, translated and annotated by Roy Harris&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-classdeeppinkliteraturespan&#34;&gt;&lt;span class=&#34;deeppink&#34;&gt;Literature&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.org/details/rigvedasanhitasa01syaauoft/page/n7/mode/2up&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Rig-Veda-Sanhita: The Sacred Hymns of the Brahmans&lt;/strong&gt;&lt;/a&gt;, together with the commentary of Sayanacharya, edited by Max Müller&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ia802901.us.archive.org/33/items/yajurveda029670mbp/yajurveda029670mbp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Yajur Veda&lt;/strong&gt;&lt;/a&gt;, translated by Devi Chand&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ia801906.us.archive.org/6/items/wg867/WG867-2013-SamVeda.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SamaVeda&lt;/strong&gt;&lt;/a&gt;, English translation by Tulsi Ram&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.org/details/atharva-veda-vol-2-of-2/mode/2up&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Atharva-Veda&lt;/strong&gt;&lt;/a&gt;, English translation by Tulsi Ram&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.valmiki.iitk.ac.in/content?language=dv&amp;amp;field_kanda_tid=1&amp;amp;field_sarga_value=1&amp;amp;field_sloka_value=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ramayana&lt;/strong&gt;&lt;/a&gt;, by Maharshi Valmiki, website developed and maintained by IIT Kanpur&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.org/details/mahabharata-by-gita-press-in-hindi-and-sanskrit/Mahabharata%20Volume%201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Mahabharata&lt;/strong&gt;&lt;/a&gt;, by Veda-Vyasa, published by Gita Press&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gitasupersite.iitk.ac.in/srimad?language=dv&amp;amp;field_chapter_value=1&amp;amp;field_nsutra_value=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Srimad BhagavadGita&lt;/strong&gt;&lt;/a&gt;, by Veda-Vyasa, website developed and maintained by IIT Kanpur&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sankara.iitk.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Works of Sankaracharya&lt;/strong&gt;&lt;/a&gt;, website developed and maintained by IIT Kanpur&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ignca.gov.in/Asi_data/9566.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Arctic Home in the Vedas: Being also a new key to the interpretation of many vedic texts and legends&lt;/strong&gt;&lt;/a&gt;, by Lokmanya Bal Gangadhar Tilak&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://apnaorg.com/books/english/empires-of-the-indus/empires-of-the-indus.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Empires of the Indus: The Story of a River&lt;/strong&gt;&lt;/a&gt;, by Alice Albinia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ia800304.us.archive.org/10/items/aristotleonarto00aris/aristotleonarto00aris.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Aristotle: On the Art of Poetry&lt;/strong&gt;&lt;/a&gt;, translated by Ingram Bywater, with a preface by Gilbert Murray&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://s3.amazonaws.com/scschoolfiles/720/oedipus_full_text_fagles_with_scenes_labeled.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Oedipus Rex&lt;/strong&gt;&lt;/a&gt;, by Sophocles, translated by Robert Fagles&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ia800905.us.archive.org/25/items/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Animal Farm&lt;/strong&gt;&lt;/a&gt;, by George Orwell&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www2.cs.sfu.ca/~vaughan/teaching/415/papers/I,%20Robot%20Ch1-3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;I, Robot&lt;/strong&gt;&lt;/a&gt;, by Isaac Asimov&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://raley.english.ucsb.edu/wp-content/uploads/Reading/Chiang-story.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Stories of Your Life and Others&lt;/strong&gt;&lt;/a&gt;, by Ted Chiang&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Special thanks to the following professors for having taught wonderful courses at IIT Dharwad / Bombay and University of Southern California, and making resources publicly available on their webpages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.iitb.ac.in/~bvl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Balmohan Vishnu Limaye&lt;/a&gt;, &lt;small&gt;Professor Emeritus, Department of Mathematics, IIT Bombay, and former Visiting Professor, Department of Mathematics, IIT Dharwad&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bharathbettagere.github.io/mywebpage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Bharath B. N&lt;/a&gt;, &lt;small&gt;Assistant Professor, Department of Electrical, Electronics and Communication Engineering, IIT Dharwad&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vatsalsharan.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Vatsal Sharan&lt;/a&gt;, &lt;small&gt; Assistant Professor, Thomas Lord Department of Computer Science, University of Southern California &lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Courtesy to authors and publishers of the content, no copyright infringement intended. Sole purpose of this page is to make publicly available learning resources more accessible, for the benefit of all.&lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
